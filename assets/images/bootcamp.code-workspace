@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../Desktop/UTA-VIRT-FSF-PT-03-2024-U-LOLC"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootcamp",
+		"liveServer.settings.port": 5502
+	}
+}
