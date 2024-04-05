@@ -18,4 +18,3 @@ Please refer to the LICENSE in the repo.
 
 
 
-git@github.com:slym187/week1.git
