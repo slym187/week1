@@ -11,7 +11,7 @@ This project adheres to accessibility standards to ensure an inclusive user expe
 - Travis Hanie
 - Brian Sanchez
 - Andru Sanchez
-- chatgpt
+- chatgpt-line 27 on stylesheet
 
 # License
 Please refer to the LICENSE in the repo.
